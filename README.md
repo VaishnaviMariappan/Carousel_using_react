@@ -277,11 +277,8 @@ export default App;
 ### SLIDE 1:
 ![image](https://github.com/VaishnaviMariappan/Carousel_using_react/assets/94169913/a602b306-5e4a-40db-9071-eac6714c66bd)
 
-
-
 ### SLIDE 2:
-![image](https://github.com/VaishnaviMariappan/Carousel_using_react/assets/94169913/7e6a2132-3a3e-4eac-877a-4c16863aba6f)
-
+![image](https://github.com/VaishnaviMariappan/Carousel_using_react/assets/94169913/0926e09e-3ace-42f6-9851-779fb8eb0b7c)
 
 ### SLIDE 3:
-![image](https://github.com/VaishnaviMariappan/Carousel_using_react/assets/94169913/0926e09e-3ace-42f6-9851-779fb8eb0b7c)
+![image](https://github.com/VaishnaviMariappan/Carousel_using_react/assets/94169913/7e6a2132-3a3e-4eac-877a-4c16863aba6f)
