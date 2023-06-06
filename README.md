@@ -1,4 +1,4 @@
-# carousel
+# Carousel_Using_React
 
 ## SliderImage.js
 ```java
